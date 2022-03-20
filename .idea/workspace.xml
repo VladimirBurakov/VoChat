@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68b755cb-3bc6-4d23-ae24-fc66e7cc40af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/com/burakov/chat/client/ClientWindowSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network/network.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network/src/com/burakov/chat/network/TCPConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network/src/com/burakov/chat/network/TCPConnectionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/client/com/burakov/chat/client/ClientWindowSwing$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/client/com/burakov/chat/client/ClientWindowSwing$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/client/com/burakov/chat/client/ClientWindowSwing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/network/com/burakov/chat/network/TCPConnection$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/network/com/burakov/chat/network/TCPConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/network/com/burakov/chat/network/TCPConnectionListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/server/com/burakov/chat/server/ChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/com/burakov/chat/server/ChatServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="68b755cb-3bc6-4d23-ae24-fc66e7cc40af" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
